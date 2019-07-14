@@ -18,7 +18,7 @@ En esta primera sesión hablaremos sobre los dos conceptos matemáticos fundamen
 
 <div style="display:flex; align-items:center;justify-items:center; margin-top:-20px;">
 
-<a style="margin:10px" href="https://www.meetup.com/es-ES/Barcelona-School-of-AI/" target="_blank"><img src="https://www.cineaurora.it/wp-content/uploads/2013/12/unnamed.png" width=50/></a>
+<a style="margin:10px" href="https://twitter.com/BarcelonaAI" target="_blank"><img src="https://www.cineaurora.it/wp-content/uploads/2013/12/unnamed.png" width=50/></a>
 
 <a style="margin:10px" href="https://www.meetup.com/es-ES/Barcelona-School-of-AI/" target="_blank"><img src="https://www.meetup.com/mu_static/es-ES/logo--script.004ada05.svg" width=100/></a>
 
