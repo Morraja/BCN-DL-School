@@ -14,6 +14,12 @@ Desde Barcelona School of AI hemos desarrollado un currículum para convertirnos
 
 En esta primera sesión hablaremos sobre los dos conceptos matemáticos fundamentales para trabajar con redes neuronales: álgebra lineal (usado para definir las operaciones internas de una red) y cálculo diferencial (usado para entrenar una red). Usaremos Google Colab, Python y Pytorch para trabajar con los ejemplos.
 
+### Tema 2. Nuestra primera red neuronal
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E5QC9PqMPYQ45Zxu01GT2LvJPJEV_ZPz)
+
+En esta sesión implementaremos desde cero en Python (con Numpy) nuestra primera red neuronal para clasificar imágenes. En primer lugar veremos qué es un perceptrón y cómo entrenarlo. Después implementaremos un perceptrón multicapa y veremos los efectos de utilizar más o menos capas, con más o menos neuronas. Para terminar, implementaremos nuestro propio mini-framework de redes neuronales para entrenar un perceptrón multicapa con el dataset MNIST.
+
 ## Contacto
 
 <div style="display:flex; align-items:center;justify-items:center; margin-top:-20px;">
