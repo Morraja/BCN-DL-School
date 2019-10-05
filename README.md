@@ -27,6 +27,14 @@ En esta sesión implementaremos desde cero en Python (con Numpy) nuestra primera
 
 En esta sesión aprenderemos como entrenar una red neuronal en Python. Para ello, utilizaremos nuestro propio framework de redes neuronales (desarrollado en el tema anterior) para descubrir los conceptos más importantes que hay que tener en cuenta a la hora de entrenar una red neuronal: por qué dividir nuestros datos en grupos de train/validation/test, qué es y como evitar el overfitting, como debuggar una red neuronal paso a paso, cómo iterar para reducir el error, técnicas de regularización, optimización de hyperparámetros, etc..
 
+
+### Tema 4: Frameworks de Redes Neuronales
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PTK7rHAHavwPiPK8evrK80luKGqMGNoG)
+
+En esta sesión hablaremos sobre frameworks de redes neuronales. En particular trabajaremos con Tensorflow y Pytorch para hacer los ejemplos que hemos ido llevando a cabo en los temas anteriores. Hablaremos sobre las ventajas que aporta el utilizar un framework y cómo nos ayudarán para hacer nuestras aplicaciones en los próximos meetups.
+
+
 ## Contacto
 
 <div style="display:flex; align-items:center;justify-items:center; margin-top:-20px;">
