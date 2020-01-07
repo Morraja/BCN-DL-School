@@ -1,8 +1,8 @@
-# Barcelona School of AI
+# Barcelona Deep Learning School
 
-<a href="https://www.meetup.com/es-ES/Barcelona-School-of-AI/" target="_blank"><img src="https://www.meetup.com/mu_static/es-ES/logo--script.004ada05.svg" width=100/></a>
+<a href="https://www.meetup.com/es-ES/BCN-DL-School/" target="_blank"><img src="https://www.meetup.com/mu_static/es-ES/logo--script.004ada05.svg" width=100/></a>
 
-Desde Barcelona School of AI hemos desarrollado un currículum para convertirnos en maestros de las Redes Neuronales ! En nuestros meetups aprenderás los conceptos básicos sobre el funcionamiento de las Redes Neuronales, cómo utilizar frameworks como Pytorch o Tensorflow para entrenar redes complejas, Redes Convolucionales para tareas de Visión Artificial, Redes Recurrentes para tareas de Procesado de Lenguaje y cómo poner a trabar tus redes en entornos de producción para desarrollar tus propias aplicaciones. Si ésto es de tu interés, no dudes en apuntarte !
+Desde Barcelona Deep Learning School hemos desarrollado un currículum para convertirnos en maestros de las Redes Neuronales ! En nuestros meetups aprenderás los conceptos básicos sobre el funcionamiento de las Redes Neuronales, cómo utilizar frameworks como Pytorch o Tensorflow para entrenar redes complejas, Redes Convolucionales para tareas de Visión Artificial, Redes Recurrentes para tareas de Procesado de Lenguaje y cómo poner a trabajar tus redes en entornos de producción para desarrollar tus propias aplicaciones. Si ésto es de tu interés, no dudes en apuntarte !
 
 ## Meetups
 
