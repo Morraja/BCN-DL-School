@@ -35,6 +35,16 @@ En esta sesión aprenderemos como entrenar una red neuronal en Python. Para ello
 En esta sesión hablaremos sobre frameworks de redes neuronales. En particular trabajaremos con Tensorflow y Pytorch para hacer los ejemplos que hemos ido llevando a cabo en los temas anteriores. Hablaremos sobre las ventajas que aporta el utilizar un framework y cómo nos ayudarán para hacer nuestras aplicaciones en los próximos meetups.
 
 
+
+### Módulo 2
+
+### Tema 5: Redes Neuronales Convolucionales
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17WuaJnUa0r27MFxrUDvYY8CtIW8aCYur/view?usp=sharing)
+
+En esta sesión introduciremos las Redes Neuronales Convolucionales, una arquitectura de red muy utilizada en tareas de Visión Artificial tales como clasificiación de imágenes, detección de objetos, segmentación semántica, etc. Usaremos Pytorch para hacer nuestras propias redes y para usar redes ya pre-entrenadas que nos ayuden a entrenar buenos modelos con pocos dats (técnica conocida como *transfer learning*).
+
+
 ## Contacto
 
 <div style="display:flex; align-items:center;justify-items:center; margin-top:-20px;">
