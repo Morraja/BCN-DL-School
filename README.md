@@ -42,7 +42,7 @@ En esta sesión hablaremos sobre frameworks de redes neuronales. En particular t
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17WuaJnUa0r27MFxrUDvYY8CtIW8aCYur/view?usp=sharing)
 
-En esta sesión introduciremos las Redes Neuronales Convolucionales, una arquitectura de red muy utilizada en tareas de Visión Artificial tales como clasificiación de imágenes, detección de objetos, segmentación semántica, etc. Usaremos Pytorch para hacer nuestras propias redes y para usar redes ya pre-entrenadas que nos ayuden a entrenar buenos modelos con pocos dats (técnica conocida como *transfer learning*).
+En esta sesión introduciremos las Redes Neuronales Convolucionales, una arquitectura de red muy utilizada en tareas de Visión Artificial tales como clasificiación de imágenes, detección de objetos, segmentación semántica, etc. Usaremos Pytorch para hacer nuestras propias redes o usar redes ya pre-entrenadas que nos ayuden a entrenar buenos modelos con pocos datos (técnica conocida como *transfer learning*).
 
 
 ## Contacto
